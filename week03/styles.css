@@ -62,20 +62,12 @@ header h1 {
     }
 
     footer{
-        img {
-            clear: left;
-          }
-          
-          p.clear {
-            clear: left;
-          }
-          div.a {
-            text-align: center;
-          }
+        clear: both;
+        text-align: center;
     }
 
     footer li{
-        p.ex {display: inline;}
+        display: inline;
         padding: 10px;
 
     }
