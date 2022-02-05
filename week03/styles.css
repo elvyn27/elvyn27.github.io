@@ -61,4 +61,17 @@ header h1 {
         padding: 10px;
     }
 
+    footer{
+        img {
+            clear: left;
+          }
+          
+          p.clear {
+            clear: left;
+          }
+          div.a {
+            text-align: center;
+          }
+    }
+
     
