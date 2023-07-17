@@ -1,20 +1,22 @@
 /* || General setup */
 
 html, body {
-    margin: 0;
-    padding: 0;
-  }
-  
-  html {
-    font-size: 10px;
-    background-color: #a9a9a9;
-  }
-  
-  body {
-    width: 70%;
-    min-width: 800px;
-    margin: 0 auto;
-  }
+  margin: 0;
+  padding: 0;
+  background-color: pink; /* Change background color to pink */
+}
+
+html {
+  font-size: 10px;
+  /* Keep other styles intact */
+}
+
+body {
+  width: 70%;
+  min-width: 800px;
+  margin: 0 auto;
+  /* Keep other styles intact */
+}
   
   /* || typography */
   
