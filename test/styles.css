@@ -1,0 +1,60 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f7d4f7; /* Light pink */
+}
+
+header {
+  background-color: #ff8b8b; /* Coral pink */
+  text-align: center;
+  padding: 20px;
+}
+
+.logo {
+  font-size: 2.5rem;
+  color: #ffffff; /* White */
+}
+
+nav ul li a {
+  color: #ffffff; /* White */
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #ffbfcc; /* Light coral pink */
+  transition: background-color 0.3s ease-in-out;
+}
+
+nav ul li a:hover {
+  background-color: #ff6b6b; /* Dark coral pink on hover */
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.section-title {
+  color: #ff6b6b; /* Dark coral pink */
+  text-transform: uppercase;
+}
+
+.event, .artist {
+  background-color: #ffffff; /* White */
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+a {
+  color: #ff6b6b; /* Dark coral pink */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #ff8b8b; /* Coral pink */
+  color: #ffffff; /* White */
+  text-align: center;
+  padding: 10px;
+}
